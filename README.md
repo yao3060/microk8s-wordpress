@@ -1,1 +1,1 @@
-# microk8s-wordpress
+# Deploy WordPress to MicroK8s
