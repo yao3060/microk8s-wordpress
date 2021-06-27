@@ -26,4 +26,5 @@ spec:
               mountPath: /var/www/html
       volumes:
         - name: wordpress-persistent-storage
-          emptyDir: {}
+          persistentVolumeClaim:
+            claimName: wordpress-volume-claim

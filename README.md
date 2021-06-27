@@ -4,9 +4,9 @@
 
 - wordpress:5.7-apache
 - mysql:8
+- redis
 - letsencrypt
 
 **Todo**
 
-- [ ] redis
 - [ ] custom wordpress image with pre-installed plugins

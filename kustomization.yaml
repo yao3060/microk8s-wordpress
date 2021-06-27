@@ -4,6 +4,8 @@ namePrefix: yaoyingying-
 resources:
   - wordpress
   - mysql
+  - redis
+
 patchesStrategicMerge:
   - patch.yaml
 

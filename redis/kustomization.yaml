@@ -2,5 +2,3 @@ resources:
   - deployment.yaml
   - service.yaml
   - volume.yaml
-  - letsencrypt.yaml
-  - ingress.yaml
